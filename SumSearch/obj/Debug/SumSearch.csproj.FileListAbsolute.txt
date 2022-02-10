@@ -1,0 +1,8 @@
+C:\Users\m.szura\source\repos\SumSearch\SumSearch\bin\Debug\SumSearch.exe.config
+C:\Users\m.szura\source\repos\SumSearch\SumSearch\bin\Debug\SumSearch.exe
+C:\Users\m.szura\source\repos\SumSearch\SumSearch\bin\Debug\SumSearch.pdb
+C:\Users\m.szura\source\repos\SumSearch\SumSearch\obj\Debug\SumSearch.csproj.AssemblyReference.cache
+C:\Users\m.szura\source\repos\SumSearch\SumSearch\obj\Debug\SumSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.szura\source\repos\SumSearch\SumSearch\obj\Debug\SumSearch.csproj.CoreCompileInputs.cache
+C:\Users\m.szura\source\repos\SumSearch\SumSearch\obj\Debug\SumSearch.exe
+C:\Users\m.szura\source\repos\SumSearch\SumSearch\obj\Debug\SumSearch.pdb
